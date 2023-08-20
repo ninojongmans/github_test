@@ -1,1 +1,1 @@
-'This is a demo text
+Demo readme file for GitHub practice
